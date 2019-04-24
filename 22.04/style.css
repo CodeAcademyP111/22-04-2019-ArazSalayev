@@ -1,0 +1,41 @@
+.container{
+    width:730px;
+    margin:0 auto;
+    text-align: center;
+    background-color:#FBFBFB;
+}
+ .leaf_left img{
+    width: 300px;
+    height: auto;    
+    float: left;
+    right: 0px;
+}
+.leaf_right img{
+    width: 300px;
+    height: auto;    
+    float: right;
+    left: 0px;
+}
+.clearfix{
+    clear: both;
+}
+.name{
+    text-align: center;
+    font-size:150px;
+    font-family: 'Dancing Script', cursive;
+    color: #9B8877;
+}
+.container p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:1.8em;
+    font-weight: bold;
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+    margin-top: 40px;
+}
+.signature p{
+    font-family: 'Dancing Script', cursive;
+    font-size:1.8em;
+    color: lightgreen;
+}
